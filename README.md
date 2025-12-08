@@ -1,19 +1,11 @@
-<div id="toc">
-  <ul align="center" style="list-style: none">
-    <summary>
-      <h1>
-        👋 Hi, my name is Egor Leonov
-      </h1>
-    </summary>
-  </ul>
-</div>
+👋 Hi, my name is Egor Leonov
 
  ### ***I*** ❤️ ***improving myself and coding!*** 💻
 
-- 📫 How to reach me:
+### How to reach me<img src="https://media.tenor.com/4kSmOoh_2jcAAAAi/money.gif" height="20em"  align="center"> 
   
-  - 💌 Telegram: [@Wex0Man](https://t.me/Wex0Man)
-  
+[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="35em"  align="center" alt="Contact me on Telegram" title="Contact me on Telegram"/>](https://t.me/Wex0Man)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35em"  align="center" alt="Send me an email" title="Send me an email"/>](mailto:lea27057@gmail.com)<br>
   - 📧 email: lea27057@gmail.com
 - ⚡ Fun Facts:
 
