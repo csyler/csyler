@@ -1,5 +1,6 @@
 ## ***Hello, I'm Egor Leonov👋***
  ***I*** ❤️ ***improving myself and coding!*** 💻
+ 
 💡 ***Passionately committed to bringing ideas to life. Explore all of my projects.***
 
 - 📫 How to reach me:
