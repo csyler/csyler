@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" height="35em">
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" height="35em">
   <img src="https://img.shields.io/badge/Pytest-fff?style=for-the-badge&logo=pytest" height="35em">
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql" height="35em">
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql" height="35em">/br
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git" height="35em">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux" height="35em">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5" height="35em">
