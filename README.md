@@ -1,4 +1,4 @@
-# ***👋 Hi, my name is Egor Leonov***
+# ***👋 Hi, my name is Egor***
 
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="30em"  align="center" alt="Contact me on Telegram" title="Contact me on Telegram"/>](https://t.me/leon_egor)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30em"  align="center" alt="Send me an email" title="Send me an email"/>](mailto:lea27057@gmail.com)
