@@ -19,15 +19,14 @@
 ## 💡 ***Passionately committed to bringing ideas to life. Explore all of my projects.***
 
 # 💻 Tech Stack:
-
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-663399?style=for-the-badge&logo=python&logoColor=white" height="35em">
-  <img src="https://img.shields.io/badge/FastAPI-663399?style=for-the-badge&logo=fastapi&logoColor=white" height="35em">
-  <img src="https://img.shields.io/badge/Pytest-663399?style=for-the-badge&logo=pytest&logoColor=white" height="35em">
-  <img src="https://img.shields.io/badge/mysql-663399?style=for-the-badge&logo=mysql&logoColor=white" height="35em"><br>
-  <img src="https://img.shields.io/badge/GIT-663399?style=for-the-badge&logo=git&logoColor=white" height="35em">
-  <img src="https://img.shields.io/badge/Linux-663399?style=for-the-badge&logo=linux&logoColor=white" height="35em">
-  <img src="https://img.shields.io/badge/HTML5-663399?style=for-the-badge&logo=html5&logoColor=white" height="35em">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="35em">
+  <img src="https://img.shields.io/badge/FastAPI-009485?style=for-the-badge&logo=fastapi&logoColor=white" height="35em">
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" height="35em">
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="35em"><br>
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height="35em">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" height="35em">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="35em">
   <img src="https://img.shields.io/badge/css-663399?style=for-the-badge&logo=css&logoColor=white" height="35em">
-  <img src="https://img.shields.io/badge/Pydantic-663399?style=for-the-badge&logo=pydantic&logoColor=white" height="35em">
+  <img src="https://img.shields.io/badge/Pydantic-3178C6?style=for-the-badge&logo=pydantic&logoColor=white" height="35em">
 </p>
